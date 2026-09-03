@@ -102,9 +102,7 @@ The interface includes:
 
 <!-- Add the application screenshot here -->
 
-```markdown
 ![Grid Trading System](screenshots/grid-trading-system.jpg)
-```
 
 ---
 
