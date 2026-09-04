@@ -1,4 +1,4 @@
-# Python Grid Trading System
+# Grid Trading System
 
 A Python-based automated grid trading system designed for real-time cryptocurrency market monitoring, exchange API integration, automated order execution, and trading state management.
 
